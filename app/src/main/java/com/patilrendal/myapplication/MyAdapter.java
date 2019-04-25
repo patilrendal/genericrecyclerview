@@ -1,10 +1,10 @@
-package com.example.myapplication;
+package com.patilrendal.myapplication;
 
 import android.content.Context;
 import android.view.ViewGroup;
 
-import com.example.genericrecyclerview.GenericRecyclerAdapter;
-import com.example.genericrecyclerview.listners.OnRecyclerObjectClickListener;
+import com.patilrendal.genericrecyclerview.GenericRecyclerAdapter;
+import com.patilrendal.genericrecyclerview.listners.OnRecyclerObjectClickListener;
 
 public class MyAdapter extends GenericRecyclerAdapter<UserDTO, OnRecyclerObjectClickListener<UserDTO>, UserViewHolder> {
 

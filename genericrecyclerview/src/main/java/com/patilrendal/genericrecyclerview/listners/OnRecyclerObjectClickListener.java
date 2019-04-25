@@ -1,4 +1,4 @@
-package com.example.genericrecyclerview.listners;
+package com.patilrendal.genericrecyclerview.listners;
 
 public interface OnRecyclerObjectClickListener<T> extends BaseRecyclerListener {
     /**

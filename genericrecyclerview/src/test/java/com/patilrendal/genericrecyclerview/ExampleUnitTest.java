@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.patilrendal.genericrecyclerview;
 
 import org.junit.Test;
 

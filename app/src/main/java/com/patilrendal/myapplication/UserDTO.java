@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.patilrendal.myapplication;
 
 public class UserDTO {
 

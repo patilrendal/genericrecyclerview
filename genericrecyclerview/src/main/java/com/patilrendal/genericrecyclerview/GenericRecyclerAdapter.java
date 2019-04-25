@@ -1,4 +1,4 @@
-package com.example.genericrecyclerview;
+package com.patilrendal.genericrecyclerview;
 
 import android.content.Context;
 import android.support.annotation.LayoutRes;
@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.genericrecyclerview.listners.BaseRecyclerListener;
+import com.patilrendal.genericrecyclerview.listners.BaseRecyclerListener;
 
 import java.util.ArrayList;
 import java.util.List;

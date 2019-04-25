@@ -1,12 +1,12 @@
-package com.example.myapplication;
+package com.patilrendal.myapplication;
 
 import android.support.annotation.Nullable;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.genericrecyclerview.BaseViewHolder;
-import com.example.genericrecyclerview.listners.BaseRecyclerListener;
-import com.example.genericrecyclerview.listners.OnRecyclerObjectClickListener;
+import com.patilrendal.genericrecyclerview.BaseViewHolder;
+import com.patilrendal.genericrecyclerview.listners.BaseRecyclerListener;
+import com.patilrendal.genericrecyclerview.listners.OnRecyclerObjectClickListener;
 
 public class UserViewHolder extends BaseViewHolder<UserDTO, OnRecyclerObjectClickListener<UserDTO>> {
 
